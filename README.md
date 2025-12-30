@@ -29,4 +29,4 @@ within an application window.
 1. Install Python 3
 2. Clone this repository:
    ```bash
-   git clone https://github.com/USERNAME/Keylogger-Page-Project.git
+   git clone https://github.com/koushikbarman7/Keylogger-Page-Project
